@@ -7,8 +7,6 @@
 import { defineComponent } from 'vue'
 import HelloWorld from './components/HelloWorld.vue'
 
-const a = 'ss'
-const ab = 'ss'
 export default defineComponent({
   name: 'App',
   components: {
